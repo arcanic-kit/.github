@@ -3,15 +3,11 @@
 ### Modern Architecture Toolkit for .NET
 **Build cleaner, scalable, and maintainable applications with ease.**
 
----
-
 ## 🔮 About Arcanic
 
 **Arcanic** is a comprehensive ecosystem of developer tools designed to simplify the implementation of **Clean Architecture**, **Domain-Driven Design (DDD)**, and modern patterns in .NET applications.
 
 We believe that robust architecture shouldn't require boilerplate overload. Our goal is to provide lightweight, modular libraries that encapsulate complex patterns—like Mediator, Result, and Repository—into fluent, easy-to-use interfaces. Whether you are building a microservice or a modular monolith, Arcanic provides the building blocks to do it right.
-
----
 
 ## 🚀 The Ecosystem
 

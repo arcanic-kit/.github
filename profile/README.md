@@ -18,9 +18,9 @@ Arcanic is split into modular packages, allowing you to pull in only what you ne
 | Package | Description |
 | :--- | :--- |
 | **`Arcanic.Mediator`** | A lightweight, zero-dependency implementation of the **Mediator pattern**. Decouple your in-process messaging with distinct Command and Query handling. |
-| **`Arcanic.Result`** | A functional approach to error handling. Replace exceptions with a robust **Result pattern** to handle success, failure, and validation states explicitly. |
-| **`Arcanic.Repository`** | Generic repository abstractions and implementations to streamline data access while keeping your domain pure. |
-| **`Arcanic.MinimalApi`** | Extensions and wrappers to organize **Minimal APIs** into structured, testable endpoints without losing the performance benefits. |
+| **`Arcanic.Result`** | *Coming Soon* - A functional approach to error handling. Replace exceptions with a robust **Result pattern** to handle success, failure, and validation states explicitly. |
+| **`Arcanic.Repository`** | *Coming Soon* - Generic repository abstractions and implementations to streamline data access while keeping your domain pure. |
+| **`Arcanic.MinimalApi`** | *Coming Soon* - Extensions and wrappers to organize **Minimal APIs** into structured, testable endpoints without losing the performance benefits. |
 
 <!-- ### 🛠️ Project Templates
 
